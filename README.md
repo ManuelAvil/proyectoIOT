@@ -18,7 +18,7 @@ Integrantes
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|    |                     |           |            |               |             |
+| HU001|Yo como adulto mayor quiero que el collar inteligente detecte mmi presión arterial y me muestre los datos de manera continua mandando una alerta cuando los niveles están fuera de rango de una presión arterial normal para el correcto seguimiento de mi enfermedad|Debe, Puede, No se hara|               |             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 
