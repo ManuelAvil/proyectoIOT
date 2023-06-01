@@ -12,6 +12,6 @@ Integrantes
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
+| 1  | NodeRED  |2.2.2    | Software libre     |
 |    |          |         |      |
 |    |          |         |      |
