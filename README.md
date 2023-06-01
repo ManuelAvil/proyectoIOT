@@ -15,3 +15,12 @@ Integrantes
 | 1  | NodeRED  |2.2.2    | Software libre     |
 |    |          |         |      |
 |    |          |         |      |
+## Tabla de historias de usuario
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+|    |                     |           |            |               |             |
+|    |                     |           |            |               |             |
+|    |                     |           |            |               |             |
+
+## Prototipo en dibujo
+- Coloca la fotografia de tu prototipo dibujado a lapiz
