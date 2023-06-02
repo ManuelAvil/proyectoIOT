@@ -6,10 +6,10 @@ Beneficiario
 ## Integrantes
 Integrantes
 ## Materiales a utilizar
-|ID|Nombre|Descripcion|Imagen|Costo|Precio Unitario|Cantidad|
-|---|---|---|---|---|---|---|
+|ID|Nombre|Descripción|Imagen|Costo Unitario|Cantidad|
+|---|---|---|---|---|---|
 |1|ESP32|Numero de pines, cuanto de ram||170|2|
-|3|HC-SR04|<html><ol><li>Tensión de alimentación: 5 VCC.</li><li>Frecuencia de trabajo: 40 KHz.</li><li>Rango máximo: 4.5 m</li><li>Rango mínimo: 1.7 cm</li></ol></html>|Imagen|$120.00|$  
+|2|HC-SR04|<html><ol><li>Tensión de alimentación: 5 VCC.</li><li>Frecuencia de trabajo: 40 KHz.</li><li>Rango máximo: 4.5 m</li><li>Rango mínimo: 1.7 cm</li></ol></html>|![image](https://github.com/ManuelAvil/proyectoIOT/assets/88950498/263ef218-4975-47e9-88fe-5692c4847704)|$29.00|1|  
   
 
 ## Tabla de Software utilizado
