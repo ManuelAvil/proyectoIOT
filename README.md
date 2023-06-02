@@ -9,7 +9,7 @@ Integrantes
 |ID|Nombre|Descripcion|Imagen|Costo|Precio Unitario|Cantidad|
 |---|---|---|---|---|---|---|
 |1|ESP32|Numero de pines, cuanto de ram||170|2|
-|3|HC-SR04|<html><ol><li>Tensión de alimentación: 5 VCC.</li><li>Frecuencia de trabajo: 40 KHz.</li><li>Rango máximo: 4.5 m</li></ol> </html>  
+|3|HC-SR04|<html><ol><li>Tensión de alimentación: 5 VCC.</li><li>Frecuencia de trabajo: 40 KHz.</li><li>Rango máximo: 4.5 m</li><li>Rango mínimo: 1.7 cm</li></ol></html>|Imagen|$120.00|$  
   
 
 ## Tabla de Software utilizado
